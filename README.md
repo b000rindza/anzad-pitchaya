@@ -1,5 +1,6 @@
 # anzad-pitchaya
 
+
 **A quiet place.**
 
 To Share. To Understand. To Be.
@@ -12,7 +13,6 @@ To Share. To Understand. To Be.
 ## Style
 
 *We decide. We create. We live.*
-
 
 Think of it as a fresh room we decorate together.
 
@@ -29,12 +29,13 @@ Think of it as a fresh room we decorate together.
 -> It's OK to mess up. Mistakes acknowledged are opportunities to grow.
 
 
+
 ## Architecture
 
 *Everything has a place.*
 
 
-All emotions and reactions are valid, they are welcome home.
+All emotions and reactions are valid, they are welcome home. 
 All thoughts and feedbacks have relevance.
 
 
@@ -44,7 +45,7 @@ All thoughts and feedbacks have relevance.
 
 -> Everything is logical - AI can help.
 
--> Chaos is manageable -  Obsidian can facilitate.
+-> Important things are manageable -  Obsidian can facilitate.
 
 
 
