@@ -1,5 +1,8 @@
 # anzad-pitchaya
 
+Just making sure all the pieces are held onto, no matter the huge clumsy mess...
+
+
 
 **A quiet place.**
 
@@ -15,7 +18,6 @@ To Share. To Understand. To Be.
 *We decide. We create. We live.*
 
 Think of it as a fresh room we decorate together.
-
 
 
 ### Tone
@@ -35,7 +37,7 @@ Think of it as a fresh room we decorate together.
 *Everything has a place.*
 
 
-All emotions and reactions are valid, they are welcome home. 
+All emotions and reactions are valid.
 All thoughts and feedbacks have relevance.
 
 
