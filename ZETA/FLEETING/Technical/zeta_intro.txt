@@ -1,0 +1,4 @@
+The `Zettelkasten` method is an efficient tool for harnessing diffuse thinking.
+1. `FLEETING`: Brainstorming. Getting everything out.
+2. `LITERATURE`: Connecting the dots. Reviewing notes. Writing essays.
+3. `PERMANENT`: Conclusions. Insights. Summarizing.
