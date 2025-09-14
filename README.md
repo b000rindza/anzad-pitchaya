@@ -1,34 +1,56 @@
 # anzad-pitchaya
 
 **A quiet place.**
+
+To Share. To Understand. To Be.
+
 *No expectation. No schedule. Own rhythm.*
 
 
 
-### Architecture
 
-*Everything has a place.*
+## Style
+
+*We decide. We create. We live.*
 
 
-All emotions and reactions are valid, and all of them have a home.
+Think of it as a fresh room we decorate together.
+
 
 
 ### Tone
 
-*Everything is OK.*
+*Everything is OK. Everything will be OK. *
+
+-> It's OK if it's not perfect for the first time. That's what editing is for.
+
+-> It's OK if it's not finished. Take your time.
+
+-> It's OK to mess up. Mistakes acknowledged are opportunities to grow.
 
 
-#### Reassurance
--> Nothing is lost - Git keeps track. 
+## Architecture
 
--> Everything is logical - AI helps.
-
--> Chaos is manageable -  Obsidian facilitates.
+*Everything has a place.*
 
 
-### Style
+All emotions and reactions are valid, they are welcome home.
+All thoughts and feedbacks have relevance.
 
-*We set. We create. We live.*
+
+### Tech Support
+
+-> Nothing is lost - Git can keep track. 
+
+-> Everything is logical - AI can help.
+
+-> Chaos is manageable -  Obsidian can facilitate.
 
 
-Think of it as a fresh room we decorate together.
+
+
+
+
+
+
+
