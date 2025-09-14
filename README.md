@@ -9,6 +9,7 @@
 
 *Everything has a place.*
 
+
 All emotions and reactions are valid, and all of them have a home.
 
 
@@ -16,14 +17,18 @@ All emotions and reactions are valid, and all of them have a home.
 
 *Everything is OK.*
 
+
 #### Reassurance
-Nothing is lost - Git keeps track. 
-Everything is logical - AI helps.
-Chaos is manageable -  Obsidian facilitates.
+-> Nothing is lost - Git keeps track. 
+
+-> Everything is logical - AI helps.
+
+-> Chaos is manageable -  Obsidian facilitates.
 
 
 ### Style
 
 *We set. We create. We live.*
+
 
 Think of it as a fresh room we decorate together.
