@@ -20,7 +20,7 @@ Think of it as a fresh room we decorate together.
 
 ### Tone
 
-*Everything is OK. Everything will be OK. *
+*Everything is OK. Everything will be OK.*
 
 -> It's OK if it's not perfect for the first time. That's what editing is for.
 
