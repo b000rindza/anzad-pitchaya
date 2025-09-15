@@ -7,5 +7,13 @@ A `FLEETING/` arra való, hogy "ami jön" xd Aminek ki kell jönnie, de nincs fe
 
 Szenvedünk xd 
 
+
 A `FLEETING/`-ben vannak az "atomic note"-ok - Ebben a térben kötetlen a forma és a rendszer
 
+Zene, reel, élmények, gondolatok, képek, ... - bármi kerülhet ide. 
+
+
+*P.S.:*
+*Ennek a konfigurációnak az a lényege, hogy közös.* 
+*Van saját rendszerem, lehet belőle meríteni - saját felhasználásra is.* 
+*This place is sacred:)*
