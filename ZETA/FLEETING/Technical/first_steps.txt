@@ -1,6 +1,6 @@
-*This repository is public - yet to become private.*
+*This repository is public**
 
-To be an equal collaborator:
+To be an equal collaborator in the private project:
 - Sign in to GitHub and follow me:
 	- https://github.com/b000rindza
 	- `Follow` button.
@@ -10,4 +10,4 @@ To be an equal collaborator:
 	- profile link 
 	- or e-mail address
 
-Don't worry about any technical details. 
+Don't worry about technical details - just ask if you do.
