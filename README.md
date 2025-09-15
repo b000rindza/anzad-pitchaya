@@ -1,15 +1,22 @@
 # anzad-pitchaya
 
+
+
 Just making sure all the pieces are held onto, no matter the huge clumsy mess...
 
+> [!warning] Warning
+> 
+> This is a mock-up version under construction. Most of the content is not publically accessible. To gain access to the full project, follow the instructions at `first_steps.txt`.
+> 
 
 
-**A quiet place.**
+## **A quiet place.**
 
 To Share. To Understand. To Be.
 
 *No expectation. No schedule. Own rhythm.*
 
+**[restricted for public repo]**
 
 
 
@@ -18,6 +25,8 @@ To Share. To Understand. To Be.
 *We decide. We create. We live.*
 
 Think of it as a fresh room we decorate together.
+
+**[restricted for public repo]**
 
 
 ### Tone
@@ -30,6 +39,7 @@ Think of it as a fresh room we decorate together.
 
 -> It's OK to mess up. Mistakes acknowledged are opportunities to grow.
 
+**[restricted for public repo]**
 
 
 ## Architecture
@@ -37,11 +47,12 @@ Think of it as a fresh room we decorate together.
 *Everything has a place.*
 
 
-All emotions and reactions are valid.
-All thoughts and feedbacks have relevance.
+**[restricted for public repo]**
 
 
 ### Tech Support
+
+**[restricted for public repo]**
 
 -> Nothing is lost - Git can keep track. 
 
@@ -49,6 +60,7 @@ All thoughts and feedbacks have relevance.
 
 -> Important things are manageable -  Obsidian can facilitate.
 
+**[restricted for public repo]**
 
 
 
